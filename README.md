@@ -8,9 +8,17 @@ Leikurinn byggist á hraða og nákvæmni, það er gaman að keppast við að s
 
 ## Lóðun ##
 
-<img src="https://photos.google.com/photo/AF1QipM7dTxII_wO8fceg3VEZt1RXK4d7v3W8fR91rU" width="50%" height="50%">
-<img src="https://photos.google.com/photo/AF1QipNdahBHFxAu4-JAW2MiTPqhXGPIu6fGwB1zCRM" width="50%" height="50%">
-<img src="https://photos.google.com/photo/AF1QipOwckjn5QOLAsB4T6zLRfTa_ygox_N1aaLay10" width="50%" height="50%">
-<img src="https://photos.google.com/photo/AF1QipPQOyp466Cvu-ERloscfh7VJr75vBY2BBop1r4" width="50%" height="50%">
-<img src="https://photos.google.com/photo/AF1QipPXItTE99y1vplzid3F6puHeZ_o4ayM37aI8rw" width="50%" height="50%">
- 
+<img src="https://github.com/Helena-Laufey/Bord-spil/blob/main/myndir-bor%C3%B0spil/myndir-bordspil/20241127_085604.jpg" width="50%" height="50%">
+<img src="https://github.com/Helena-Laufey/Bord-spil/blob/main/myndir-bor%C3%B0spil/myndir-bordspil/20241127_100010.jpg" width="50%" height="50%">
+<img src="https://github.com/Helena-Laufey/Bord-spil/blob/main/myndir-bor%C3%B0spil/myndir-bordspil/20241127_110820.jpg" width="50%" height="50%">
+<img src="https://github.com/Helena-Laufey/Bord-spil/blob/main/myndir-bor%C3%B0spil/myndir-bordspil/20241202_130515.jpg" width="50%" height="50%">
+<img src="https://github.com/Helena-Laufey/Bord-spil/blob/main/myndir-bor%C3%B0spil/myndir-bordspil/20241202_131101.jpg" width="50%" height="50%">
+<img src="https://github.com/Helena-Laufey/Bord-spil/blob/main/myndir-bor%C3%B0spil/myndir-bordspil/Screenshot_20241209_134332_Photos.jpg" width="50%" height="50%">
+
+
+## myndband af virkni ##
+
+## Ljósmyndir af borðspili ##
+
+## Hönnunarteikning ##
+
