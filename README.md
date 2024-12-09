@@ -6,6 +6,9 @@ Markmið spilsins er það að ná sem flestum tökkum eins hratt og notandi hef
 Leikurinn byggist á hraða og nákvæmni, það er gaman að keppast við að slá í takkana áður en ljósin hverfa. Hann getur verið bæði auðveldur og erfiður, eftir því hvort að notandi kýs hard mode eða bara venjulegt.
 Þetta er skemmtilegur og krefjandi leikur sem er gaman að skemmta sér með og það hjálpar við að auka viðbragðstíma hjá leikmanni.
 
+## Hönnunarteikning ##
+<img src="https://github.com/Helena-Laufey/Bord-spil/blob/main/bordspil_lok_V24%20mgh.svg" width="50%" height="50%">
+
 ## Lóðun ##
 
 <img src="https://github.com/Helena-Laufey/Bord-spil/blob/main/myndir-bor%C3%B0spil/myndir-bordspil/20241127_085604.jpg" width="50%" height="50%">
