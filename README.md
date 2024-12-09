@@ -19,6 +19,10 @@ Leikurinn byggist á hraða og nákvæmni, það er gaman að keppast við að s
 ## myndband af virkni ##
 
 ## Ljósmyndir af borðspili ##
+<img src="https://github.com/Helena-Laufey/Bord-spil/blob/main/myndir-bor%C3%B0spil/myndir-bordspil/20241209_142609.jpg" width="50%" height="50%">
+<img src="https://github.com/Helena-Laufey/Bord-spil/blob/main/myndir-bor%C3%B0spil/myndir-bordspil/20241209_141329.jpg" width="50%" height="50%">
+<img src="https://github.com/Helena-Laufey/Bord-spil/blob/main/myndir-bor%C3%B0spil/myndir-bordspil/20241209_141344.jpg" width="50%" height="50%">
 
-## Hönnunarteikning ##
+
+
 
